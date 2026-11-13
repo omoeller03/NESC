@@ -1,0 +1,10 @@
+# Build directory
+build/
+
+# Generated data
+cross_section.dat
+
+# Editor and operating-system files
+*~
+*.swp
+.DS_Store
