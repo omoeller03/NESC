@@ -154,6 +154,7 @@ namespace nesc
 		}
 
 		return sum * h / 3.0;
+
 	}
 	*/
 
